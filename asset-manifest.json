@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neon-calculator/static/css/main.1a79c4d9.css",
+    "main.js": "/neon-calculator/static/js/main.3ce49cd8.js",
+    "static/js/453.594829fe.chunk.js": "/neon-calculator/static/js/453.594829fe.chunk.js",
+    "index.html": "/neon-calculator/index.html",
+    "main.1a79c4d9.css.map": "/neon-calculator/static/css/main.1a79c4d9.css.map",
+    "main.3ce49cd8.js.map": "/neon-calculator/static/js/main.3ce49cd8.js.map",
+    "453.594829fe.chunk.js.map": "/neon-calculator/static/js/453.594829fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a79c4d9.css",
+    "static/js/main.3ce49cd8.js"
+  ]
+}
