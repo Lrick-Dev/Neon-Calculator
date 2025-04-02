@@ -70,7 +70,7 @@ input{
   box-shadow: 0 2px 10px rgb(255, 0, 179);
   border-color: #ff03bc;
   background-color: #2c2b2b00;
-  color:  #bbbabd;
+  color: #ff00d4;
   letter-spacing: 0.1rem;
 }
 input:hover{
@@ -134,9 +134,9 @@ button:hover{
   height: 100%;
   top: 0;
   left: 50%;
-  background: rgba(1, 49, 61, 0.481);
+  background: rgba(1, 49, 61, 0.249);
   overflow: hidden;
-  box-shadow: 0 0px 10px rgb(255, 0, 179);
+  box-shadow: 0 0px 10px rgba(255, 0, 179, 0.46);
 }
 
 .line::after {
@@ -147,7 +147,7 @@ button:hover{
   width: 100%;
   top: -50%;
   left: 0;
-  background: linear-gradient(to bottom,  rgb(6, 218, 251) 0%, #ff00d4 75%, rgb(78, 17, 93) 100%);
+  background: linear-gradient(to bottom,  rgba(6, 218, 251, 0.484) 0%, #ff00d43e 75%, rgba(78, 17, 93, 0.484) 100%);
   animation: drop 5s 0s infinite;
   animation-fill-mode: forwards;
   animation-timing-function: cubic-bezier(0.4, 0.26, 0, 0.97);
@@ -164,6 +164,7 @@ button:hover{
 
 .line:nth-child(2) {
   margin-left: -35%;
+  
 }
 
 .line:nth-child(2)::after {
