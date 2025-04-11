@@ -1,6 +1,30 @@
-# 🔢 Neon Calculator
+# 🔢 React Neon Calculator 
 
-Uma calculadora moderna com visual neon, desenvolvida em **React**. Este projeto faz parte do meu portfólio e tem como objetivo praticar conceitos fundamentais de React, JSX e componentização.
+🧮 Quatro operações básicas
+
+A calculadora realiza as principais operações matemáticas: adição (+), subtração (−), multiplicação (×) e divisão (÷) com precisão e fluidez.
+
+⌨️ Suporte total ao teclado
+
+Além de clicar nos botões da interface, você também pode digitar diretamente os números e operadores pelo teclado, tornando a navegação e o uso muito mais dinâmicos.
+
+🌈 Interface futurista com estilo neon
+
+O design foi inspirado em luzes de neon, com cores vibrantes, contrastes modernos e uma estética tecnológica, ideal para quem curte um visual impactante.
+
+📱 Responsiva e adaptada para mobile
+
+Totalmente funcional em dispositivos móveis, mantendo o mesmo visual estilizado e usabilidade simples tanto em celular quanto em desktop.
+
+⚙️ Construída com React
+
+Primeiro projeto em React, desenvolvido do zero enquanto aprendia conceitos como componentes, estado (useState), efeitos (useEffect) e organização em pastas.
+
+🧪 Código limpo e modularizado
+
+Separação entre lógica e interface, com arquivos bem estruturados para facilitar manutenção e melhorias futuras.
+
+
 
 ## 🚀 Acesse o Projeto
 
